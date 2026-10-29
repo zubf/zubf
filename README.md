@@ -1,20 +1,18 @@
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=zubf&color=191717&style=flat-square&label=Profile%20Views" alt="Profile Views"/>
+</div>
+
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=zubf&color=191717&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=45&lines=Hi+there%2C+I%27m+Yusuf" alt="Hi there, I'm Yusuf"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=650&color=FFFFFF&center=true&vCenter=true&width=435&height=45&lines=Hi+there%2C+I'm+Yusuf" alt="Hi there, I'm Yusuf"/>
 
 <br/>
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/zubf">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -22,7 +20,9 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=26&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=300&height=40&lines=About+Me" alt="About Me"/>
+</div>
 
 <div align="center">
   <samp>
@@ -33,7 +33,9 @@
   </samp>
 </div>
 
-<h2 align="center">Technologies I Use</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=26&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=360&height=40&lines=Technologies+I+Use" alt="Technologies I Use"/>
+</div>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript"/></a>
