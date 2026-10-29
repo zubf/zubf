@@ -17,9 +17,6 @@
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:YOUR_EMAIL@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
-</a>
 
 </div>
 
@@ -29,9 +26,9 @@
 
 <div align="center">
   <samp>
-    I'm Yusuf, a developer passionate about coding and technology.<br/>
-    I enjoy building projects, learning new things, and improving my skills every day.
-    <br/><br/>
+    • I'm Yusuf, a developer passionate about coding and technology.<br/>
+    • I enjoy building projects and exploring new ideas.<br/>
+    • I'm always learning and improving my skills.<br/><br/>
     🌱 Learning &nbsp; • &nbsp; 💻 Building &nbsp; • &nbsp; 🚀 Improving
   </samp>
 </div>
@@ -46,23 +43,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code"/></a>
-</div>
-
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&hide_title=true" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
-</a>
-
 </div>
