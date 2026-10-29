@@ -1,151 +1,143 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- ═══════════════ HERO ═══════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:164e63,100:06b6d4&text=Hey,%20I'm%20Yusuf!&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20in%20Progress%20%7C%20JavaScript%20%7C%20Python%20%7C%20Node.js&descAlignY=60&descSize=16" width="100%" alt="Yusuf - Developer in Progress" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  💻 Learning, Building & Improving — One Project at a Time
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Yusuf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Repeat&descAlignY=60&descSize=18&color=0:0f172a,45:164e63,100:7c3aed" alt="Yusuf - Developer"/>
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+</a>
+
+<br/>
+
+**Developer in Progress · Lifelong Learner · Problem Solver**
+
+[About Me](#-about-me) · [Tech Stack](#-tech-stack) · [Stats](#-github-dashboard) · [Contact](#-lets-connect)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Yusuf**, a developer who enjoys learning new technologies, building projects, and improving my coding skills.
+Hi, I'm **Yusuf**! 👋
 
-I'm currently focusing on **JavaScript, Python, and Node.js** while exploring web development, backend fundamentals, and problem-solving.
+I'm passionate about software development, exploring new technologies, and turning ideas into code. I enjoy learning by building projects and improving my problem-solving skills one step at a time.
 
-I believe that the best way to learn programming is by building real projects, experimenting with ideas, and learning something new every day.
-
-- 🚀 Exploring the world of software development
-- 💡 Building projects and turning ideas into code
-- 🌱 Improving my JavaScript, Python, and Node.js skills
-- 🧠 Practicing logical thinking and problem-solving
-- 🎯 Always curious, always learning
+- 🌱 **Currently learning:** JavaScript, Python & Node.js
+- 🛠️ **Interested in:** Web development, backend development & automation
+- 🎯 **My goal:** Build useful projects and become a better developer every day
+- ⚡ **My mindset:** Learn → Build → Improve → Repeat
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚡ Tech Stack
 
-<p align="center">
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-  </a>
-  <a href="https://www.npmjs.com/" title="npm">
-    <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm"/>
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-  </a>
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Tools I use and explore while developing my projects.</i>
-</p>
+### 💻 Languages
 
-## 💻 Programming Languages
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/></a>
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3"/>
-  </a>
-</p>
+### ⚙️ Backend & Runtime
 
-<p align="center">
-  <b>Currently focusing on JavaScript, Python & Node.js.</b>
-</p>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/></a>&nbsp;
+<a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" height="48" alt="npm"/></a>
+
+### 🧰 Tools & Workflow
+
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/></a>
+
+</div>
+
+<sub>Click any icon to explore its official website or documentation.</sub>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Yusuf's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-  </a>
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+</a>
 
----
+<a href="https://streak-stats.demolab.com/">
+  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" alt="GitHub Profile Trophies"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧩 LeetCode Stats
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo_2&border=0" alt="LeetCode Stats"/>
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" alt="GitHub Trophies"/>
+</a>
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>“Every expert was once a beginner. Keep learning, keep building, and let your commits tell your story.”</i>
-</p>
+## 🧩 LeetCode
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:06b6d4&height=100&section=footer" width="100%" alt="Footer"/>
-</p>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img width="65%" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo_2&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+### 💭 A Little Reminder
+
+*"Great things are built one line of code at a time. Stay curious, keep creating, and never stop growing."*
+
+**Thanks for stopping by! ⭐**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:164e63,100:7c3aed" alt="Footer"/>
+
+</div>
